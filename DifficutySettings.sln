@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifficutySettings", "DifficutySettings\DifficutySettings.csproj", "{1C2B0136-9732-4FDE-A63C-5F8EF993852D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C2B0136-9732-4FDE-A63C-5F8EF993852D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2B0136-9732-4FDE-A63C-5F8EF993852D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2B0136-9732-4FDE-A63C-5F8EF993852D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2B0136-9732-4FDE-A63C-5F8EF993852D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7AC2AB5-7E11-454F-8396-37D592107351}
+	EndGlobalSection
+EndGlobal
